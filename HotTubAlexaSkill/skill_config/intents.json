@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "CheckStatus"
+    },
+    {
+      "intent": "TurnOn"
+    },
+    {
+      "intent": "TurnOff"
+    }
+	{
+      "intent": "CheckTemp"
+    }
+  ]
+}

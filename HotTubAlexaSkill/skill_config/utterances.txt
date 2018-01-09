@@ -1,0 +1,21 @@
+CheckStatus status
+CheckStatus is the spa on
+CheckStatus is the pool on
+CheckStatus is the spa off
+CheckStatus is the pool off
+TurnOn turn on
+TurnOn on
+TurnOn heat up
+TurnOn start
+TurnOn go
+TurnOff turn off
+TurnOff off
+TurnOff stop
+TurnOff cancel
+TurnOff cool
+CheckTemp how hot it is
+CheckTemp for its temperature
+CheckTemp for temperature
+CheckTemp whats the temperature
+CheckTemp for the pool temperature
+CheckTemp for the temperture
